@@ -1,0 +1,13 @@
+# Welcome to Flux Macros
+### We are a team dedicated to bringing high-quality Bee Swarm Simulator macros to everyone. Our goal is to create the best multilatform bss macro to allow mobile players and desktop players to enjoy the same amenities using .NET MAUI. 
+
+## Why us?
+With many macros written a variety of languages like Python and Autohotkey, it may be hard to see why our product is any better. The difference between us, and big macro projects like Natro Macro and BSS Macro Py is that our product is written in a faster, well-adopted coding language, and is built to be cross-platform. Natro can be slow and can only run on Windows due to AutoHotkey's limitation, but .NET MAUI allows us to make our product available on Mac, Android, and Windows with the same codebase. .NET MAUI also uses c#, which is a very popular language, which allows existing developers to help a small community and can give a great learning opportunity for Bee Swarm players who would like to learn a coding language. We strive to create a product above all others, learning from them and improving them.
+
+## Planned Features
+Here is a list of all the features we would like to support:
+- Cross-platform Syncing
+- Themes, Plugins, and Custom Patterns
+- Profiles
+- Improved Movement Correction
+- Improved Support for Operating Systems like Windows, Mac, and Andriod (with a possibility of iPhone as well)
