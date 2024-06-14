@@ -1,5 +1,5 @@
 ![flux_banner](https://github.com/Flux-Macros/.github/assets/108243683/24576049-a7b3-44d5-812d-a81b542e0225)
-# Welcome to Flux Macros
+# Welcome to Flux Macro
 ### We are a team dedicated to bringing high-quality Bee Swarm Simulator macros to everyone. Our goal is to create the best multilatform bss macro to allow mobile players and desktop players to enjoy the same amenities using .NET MAUI. 
 
 ## Why us?
