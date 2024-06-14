@@ -11,8 +11,8 @@ Here is a list of all the features we would like to support:
 - Themes, Plugins, and Custom Patterns
 - Profiles
 - Improved Movement Correction
-- Improved Support for Operating Systems like Windows, Mac, and Andriod (with a possibility of iPhone as well)
+- Improved Support for Operating Systems like Windows and Andriod (with a possibility of iPhone and MacOs as well)
 
 ## Our Team
 Here is a list off our team and our contributers.
-- M1dnight: Creator, Lead Developer
+- M1dnight: Creator, Lead Developer, Website Creator
